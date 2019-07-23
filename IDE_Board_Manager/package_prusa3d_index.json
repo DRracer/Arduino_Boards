@@ -37,7 +37,7 @@
       "websiteURL": "https://www.prusa3d.com/",
       "email": "info@prusa3d.com",
       "help": {
-        "online": "https://github.com/3d-gussner/Arduino_Boards"
+        "online": "https://github.com/DRracer/Arduino_Boards"
       },
       "platforms": [
         {
