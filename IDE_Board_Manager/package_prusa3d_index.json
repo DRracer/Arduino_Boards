@@ -32,7 +32,7 @@
           "toolsDependencies": []
         },
         {
-          "name": "Prusa Research AVR MMU Boards",
+          "name": "Prusa Research AVR Boards",
           "architecture": "avr",
           "version": "1.0.1",
           "category": "Contributed",
@@ -51,7 +51,7 @@
           "toolsDependencies": []
         },
         {
-          "name": "Prusa Research AVR MMU Boards",
+          "name": "Prusa Research AVR Boards",
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
@@ -73,7 +73,7 @@
       "tools":[]
     },
     {
-      "name": "PrusaResearchEinsyRAMBo",
+      "name": "PrusaResearch",
       "maintainer": "Prusa Research",
       "websiteURL": "https://www.prusa3d.com/",
       "email": "info@prusa3d.com",
@@ -82,7 +82,7 @@
       },
       "platforms": [
         {
-          "name": "Prusa Research AVR MK3/MK3S Einsy RAMBo",
+          "name": "Prusa Research AVR Boards",
           "architecture": "avr",
           "version": "1.0.1",
           "category": "Contributed",
@@ -112,7 +112,7 @@
           ]
         },
         {
-          "name": "Prusa Research AVR MK3 RAMBo EINSy",
+          "name": "Prusa Research AVR Boards",
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
