@@ -66,7 +66,7 @@
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/3d-gussner/Arduino_Boards/blob/V1.0.2-fix1/IDE_Board_Manager/prusa3drambo-1.0.0.tar.bz2",
+          "url": "https://github.com/3d-gussner/Arduino_Boards/blob/V1.0.2-fix1/IDE_Board_Manager/prusa3dboards-1.0.0.tar.bz2",
           "archiveFileName": "prusa3dboards-1.0.0.tar.bz2",
           "checksum": "SHA-256:df1061544109119ffaa2ea3fa9820aa6469f288213661e23405b7f190fd71b12",
           "size": "32792",
